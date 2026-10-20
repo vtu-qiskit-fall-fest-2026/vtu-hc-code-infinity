@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Code Infinity** · Team ID `VTU-QFF-HC-0182` · Tier `Offline`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Code Infinity)
+[⬆ Back to Top](#code-infinity)
 
 </div>
